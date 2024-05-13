@@ -7,5 +7,6 @@ Solved as part of the training for the final exam of the course
 
 - 130923:  **base64lessless** <br>
 simplified base64 algorithm
+
 - 190623 **rc4_encrypt** <br>
 rc4, a well known algorithm previously used on SSL and WEP
