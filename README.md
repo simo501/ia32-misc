@@ -11,5 +11,5 @@ simplified base64 algorithm
 - 190623 **rc4_encrypt** <br>
 rc4, a well known algorithm previously used on SSL and WEP
 
-- 090223 **rc4_encrypt** <br>
-check quiz
+- 090223 **check quiz** <br>
+program to check for quiz answers
